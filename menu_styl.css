@@ -1,0 +1,40 @@
+body{
+	 margin: 0px; 
+	 padding: 0px; 
+	 font-size: 1em; 
+	 text-align: left;
+	 background: #eee;
+	 color: #000;
+	}
+h1{
+color: #888;
+border: 1px;
+margin-bottom: 0px;
+}
+p{
+color: #888;
+margin-left: 7em;
+padding: 1px 0 1px 5%;
+border-left: 1px;
+}
+div#menu{
+float:left;
+background: #bfb;
+width: 7em;
+padding: 2px 0 2px 0
+}
+div#menu ul{
+margin:0;
+padding: 0;
+width:7em;
+background: #bfb;
+border: 1px solid;
+}
+div#menu li{
+position: relative;
+list-style: none;
+margin: 0px;
+}
+div#menu ul ul{
+left:7em;
+}
